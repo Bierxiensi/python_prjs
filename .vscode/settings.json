@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/bierxiensi/Library/Python/3.9/lib/python/site-packages",
+        "./people_relation_extract"
+    ]
+}

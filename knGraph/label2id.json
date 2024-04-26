@@ -1,0 +1,23 @@
+{
+  "B-company": 1,
+  "I-company": 2,
+  "O": 3,
+  "B-name": 4,
+  "I-name": 5,
+  "B-game": 6,
+  "I-game": 7,
+  "B-organization": 8,
+  "I-organization": 9,
+  "B-movie": 10,
+  "I-movie": 11,
+  "B-position": 12,
+  "I-position": 13,
+  "B-address": 14,
+  "I-address": 15,
+  "B-government": 16,
+  "I-government": 17,
+  "B-scene": 18,
+  "I-scene": 19,
+  "B-book": 20,
+  "I-book": 21
+}
