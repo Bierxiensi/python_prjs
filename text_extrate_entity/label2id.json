@@ -1,0 +1,11 @@
+{
+  "B-WEAPON": 1,
+  "I-WEAPON": 2,
+  "O": 3,
+  "B-COUNTRY": 4,
+  "I-COUNTRY": 5,
+  "B-EVENT": 6,
+  "I-EVENT": 7,
+  "B-LOC": 8,
+  "I-LOC": 9
+}
