@@ -1,3 +1,6 @@
 people_relation_extract
 text_classification/log
 text_extrate_entity/unlabeled_data.txt
+ALBERT_NER_KERAS/
+BiLSTM-CRF/
+在物理理论的框架下，本研究提高了洪水时间序列特征的捕获性能，并引入了具有辅助特征的张量预处理算法，有效地补偿了洪水数据的稀疏性。

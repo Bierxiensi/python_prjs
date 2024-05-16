@@ -12,7 +12,7 @@ P O
 - O
 8 O
 A O
-  O
+~ O
 P O
 o O
 s O
@@ -44,6 +44,7 @@ n O
 逻 O
 机 O
 。 O
+
 美 O
 军 O
 方 O
@@ -81,6 +82,7 @@ A I-WEAPON
 巡 I-EVENT
 逻 I-EVENT
 。 O
+
 菲 B-COUNTRY
 律 I-COUNTRY
 宾 I-COUNTRY
@@ -121,6 +123,7 @@ A I-WEAPON
 丹 I-LOC
 群 I-LOC
 岛 I-LOC
+
 2 O
 月 O
 2 O
@@ -180,10 +183,7 @@ S I-WEAPON
 侦 I-EVENT
 察 I-EVENT
 。 O
-  O
-​ O
-​ O
-​ O
+
 3 O
 月 O
 2 O
@@ -269,10 +269,7 @@ D O
 观 O
 察 O
 。 O
-  O
-​ O
-​ O
-​ O
+
 5 O
 月 O
 3 O
@@ -335,6 +332,7 @@ C O
 行 O
 动 O
 。 O
+
 2 O
 0 O
 2 O
@@ -381,6 +379,7 @@ L O
 国 I-EVENT
 东 I-EVENT
 海 I-EVENT
+
 2 O
 0 O
 2 O
@@ -419,10 +418,8 @@ P O
 部 O
 活 O
 动 O
-  O
-​ O
-​ O
-​ O
+。 O
+
 1 O
 0 O
 月 O
@@ -476,6 +473,7 @@ A I-WEAPON
 海 I-EVENT
 峡 I-EVENT
 。 O
+
 美 B-COUNTRY
 国 I-COUNTRY
 空 O
@@ -516,6 +514,7 @@ U O
 活 O
 动 O
 。 O
+
 1 O
 月 O
 2 O
@@ -592,6 +591,7 @@ m O
 许 O
 离 O
 开 O
+
   O
 3 O
 月 O
@@ -666,10 +666,7 @@ V I-WEAPON
 活 O
 动 O
 。 O
-  O
-​ O
-​ O
-​ O
+
 5 O
 月 O
 1 O
@@ -719,6 +716,7 @@ V I-WEAPON
 其 O
 捕 O
 获 O
+
 美 B-COUNTRY
 国 I-COUNTRY
 海 O
@@ -764,6 +762,7 @@ A O
 海 I-LOC
 侦 B-EVENT
 察 I-EVENT
+
 1 O
 2 O
 月 O
@@ -836,10 +835,7 @@ E O
 侦 O
 察 O
 。 O
-  O
-​ O
-​ O
-​ O
+
 2 O
 月 O
 2 O
@@ -960,6 +956,7 @@ B O
 2 O
 架 O
 。 O
+
 5 O
 月 O
 3 O
@@ -1022,6 +1019,7 @@ C O
 行 O
 动 O
 。 O
+
 1 O
 2 O
 月 O
@@ -1082,10 +1080,7 @@ W I-WEAPON
 海 O
 里 O
 。 O
-  O
-​ O
-​ O
-​ O
+
 3 O
 月 O
 8 O
@@ -1193,6 +1188,7 @@ S O
 B O
 信 O
 号 O
+
 3 O
 月 O
 1 O
@@ -1249,14 +1245,14 @@ d I-WEAPON
 i I-WEAPON
 e I-WEAPON
 r I-WEAPON
-  I-WEAPON
+- I-WEAPON
 G I-WEAPON
 l I-WEAPON
 o I-WEAPON
 b I-WEAPON
 a I-WEAPON
 l I-WEAPON
-  I-WEAPON
+- I-WEAPON
 6 I-WEAPON
 5 I-WEAPON
 0 I-WEAPON
@@ -1283,10 +1279,7 @@ l I-WEAPON
 活 O
 动 O
 。 O
-  O
-​ O
-​ O
-​ O
+
 3 O
 月 O
 2 O
@@ -1339,6 +1332,7 @@ l I-WEAPON
 东 B-LOC
 海 I-LOC
 。 O
+
 美 B-COUNTRY
 国 I-COUNTRY
 海 O
@@ -1383,6 +1377,7 @@ l I-WEAPON
 日 O
 离 O
 开 O
+
 美 B-COUNTRY
 国 I-COUNTRY
 海 O
@@ -1406,6 +1401,7 @@ l I-WEAPON
 近 O
 海 O
 域 O
+
 2 O
 0 O
 2 O
@@ -1443,6 +1439,7 @@ l I-WEAPON
 沙 I-LOC
 领 O
 海 O
+
 美 B-COUNTRY
 国 I-COUNTRY
 海 O
@@ -1479,6 +1476,7 @@ l I-WEAPON
 湾 I-LOC
 海 I-LOC
 峡 I-LOC
+
 阿 O
 利 O
 伯 O
@@ -1502,7 +1500,7 @@ l I-WEAPON
 D O
 D O
 G O
-  O
+- O
 1 O
 1 O
 5 O
@@ -1552,6 +1550,7 @@ H O
 海 I-LOC
 峡 I-LOC
 。 O
+
 美 B-COUNTRY
 国 I-COUNTRY
 海 O
@@ -1627,6 +1626,7 @@ B O
   O
 信 O
 号 O
+
 美 B-COUNTRY
 国 I-COUNTRY
 海 O
@@ -1680,6 +1680,7 @@ S O
 味 O
 明 O
 显 O
+
 9 O
 月 O
 8 O
@@ -1834,6 +1835,7 @@ d O
 离 O
 。 O
 ” O
+
 据 O
 A O
 I O
@@ -1919,10 +1921,7 @@ G O
 明 O
 显 O
 。 O
-  O
-​ O
-​ O
-​ O
+
 根 O
 据 O
 日 B-COUNTRY
@@ -2105,6 +2104,7 @@ g O
 员 O
 参 O
 加 O
+
 据 O
 韩 O
 联 O
@@ -2232,6 +2232,7 @@ g O
 件 O
 ' O
 。 O
+
 俄 O
 罗 O
 斯 O
@@ -2378,7 +2379,7 @@ G O
 D O
 D O
 G O
-  O
+- O
 5 O
 2 O
 、 O
@@ -2412,7 +2413,7 @@ G O
 D O
 D O
 G O
-  O
+- O
 1 O
 7 O
 7 O
@@ -2427,6 +2428,7 @@ G O
 参 O
 演 O
 。 O
+
 菲 B-COUNTRY
 律 I-COUNTRY
 宾 I-COUNTRY
@@ -2459,6 +2461,7 @@ G O
 参 O
 加 O
 。 O
+
 1 O
 0 O
 月 O
@@ -2560,6 +2563,7 @@ T O
 习 O
 等 O
 。 O
+
 9 O
 月 O
 4 O
@@ -2651,6 +2655,7 @@ T O
 巡 O
 航 O
 。 O
+
 据 O
 悉 O
 ， O

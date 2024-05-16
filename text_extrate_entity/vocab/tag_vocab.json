@@ -1,0 +1,47 @@
+{
+  "tag2id": {
+    "B-WEAPON": 1,
+    "I-WEAPON": 2,
+    "O": 3,
+    "B-COUNTRY": 4,
+    "I-COUNTRY": 5,
+    "B-EVENT": 6,
+    "I-EVENT": 7,
+    "B-LOC": 8,
+    "I-LOC": 9,
+    "B-PER": 10,
+    "I-PER": 11,
+    "B-ORG": 10,
+    "I-ORG": 11
+  },
+  "id2tag": [
+    "B-WEAPON",
+    "I-WEAPON",
+    "O",
+    "B-COUNTRY",
+    "I-COUNTRY",
+    "B-EVENT",
+    "I-EVENT",
+    "B-LOC",
+    "B-LOC",
+    "B-PER",
+    "I-PER",
+    "B-ORG",
+    "I-ORG"
+  ],
+  "id2tagObj": {
+    "1": "B-WEAPON",
+    "2": "I-WEAPON",
+    "3": "O",
+    "4": "B-COUNTRY",
+    "5": "I-COUNTRY",
+    "6": "B-EVENT",
+    "7": "I-EVENT",
+    "8": "B-LOC",
+    "9": "B-LOC",
+    "10": "B-PER",
+    "11": "I-PER",
+    "12": "B-ORG",
+    "13": "I-ORG"
+  }
+}
